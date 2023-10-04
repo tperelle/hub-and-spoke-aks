@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: hub-and-spoke-aks
+  description: This project contains sources to build an hub and spoke infrastructure on Azure with multiple AKS environments.
+spec:
+  type: article
+  lifecycle: production
+  owner: thomas
