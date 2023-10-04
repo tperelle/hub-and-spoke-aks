@@ -5,6 +5,8 @@ metadata:
   description: This project contains sources to build an hub and spoke infrastructure on Azure with multiple AKS environments.
   links:
     - url: https://medium.com/linkbynet/deploy-enterprise-grade-aks-environments-46414ef4de40
+      title: Deploy enterprise grade AKS environments
+      icon: techdocs
   tags:
     - azure
     - kubernetes
