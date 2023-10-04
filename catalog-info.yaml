@@ -10,5 +10,6 @@ metadata:
     - kubernetes
 spec:
   type: article
+  system: github
   lifecycle: production
   owner: thomas
